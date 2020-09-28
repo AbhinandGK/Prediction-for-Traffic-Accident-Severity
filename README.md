@@ -1,1 +1,1 @@
-# Prediction-for-Traffic-Accident-Severity
+# Prediction for Traffic Accident Severity
