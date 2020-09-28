@@ -44,3 +44,8 @@ f1 score: 0.6774341492949696 Accuracy_score: 0.67319
 In this study, I analyzed the relationship between various features and Traffic Accident Severity. Here classification models is used to predict Traffic Accident Severity. These models can be very useful effective in management of accident, mitigating accident impacts and improvingtrafficsafetyaccidentsandthustheenhancementofroadsafety. Itisamajor concern to societies due to the losses in human lives and the economic and social costs. It could help identify the severity and it help to improve road transportation system efficiency.
 ## Future directions
 I was able to achieve 67% of accuracy in the classification problem. However, there was still significant variance that could not be predicted by the models in this study. I think the models could use more improvements on capturing date of incident, month, weekend or not, place, street, etc. And here only 15% of total dataset is used due to computational problems. More data, especially data of different types, would help improve model performances significantly.
+
+
+[Report](https://github.com/AbhinandGK/Prediction-for-Traffic-Accident-Severity/blob/master/Project_report.pdf)
+[Presentation](https://github.com/AbhinandGK/Prediction-for-Traffic-Accident-Severity/blob/master/presentation.pptx)
+[ipynb](https://github.com/AbhinandGK/Prediction-for-Traffic-Accident-Severity/blob/master/accident_severity.ipynb)
