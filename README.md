@@ -36,7 +36,7 @@ f1 score: 0.67519080668298 Accuracy score: 0.6754
 Logistic regression is a fundamental classification technique. It belongs to the group of linear classifiers and is somewhat similar to polynomial and linear regression. Logistic regression is fast and relatively uncomplicated, and it’s convenient for you to interpret the results. Although it’s essentially a method for binary classification, here it is applied to multi-class problems as one verses other method.
 f1 score: 0.6720916706047082 Accuracy score: 0.6774341492949696
 
-### Support Vector Machine (SVN)
+### Support Vector Machine (SVM)
 Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection. The advantages of support vector machines are Effective in high dimensional spaces, Still effective in cases where number of dimensions is greater than the number of samples, Uses a subset of training points in the decision function (called support vectors), so it is also memory efficient, Versatile: different Kernel functions can be specified for the decision function.
 f1 score: 0.6774341492949696 Accuracy_score: 0.67319
 
